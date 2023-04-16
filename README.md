@@ -1,1 +1,3 @@
 # bitirme projesi
+
+DEVAM EDİYOR
