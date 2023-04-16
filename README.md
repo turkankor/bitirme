@@ -1,1 +1,1 @@
-# bitirme
+# bitirme projesi
