@@ -1,6 +1,6 @@
-React ve firebase kullanarak oluşturduğum to-do uygulaması,
+# React ve firebase kullanarak oluşturduğum to-do uygulaması,
 
-uygulamada not ekleyebilir, düzenleyebilir veya notun üzerini çizebilirsiniz
+# uygulamada not ekleyebilir, düzenleyebilir veya notun üzerini çizebilirsiniz
 
 
 
