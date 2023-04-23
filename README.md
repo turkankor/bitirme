@@ -1,10 +1,14 @@
 # React ve firebase kullanarak oluşturduğum to-do uygulaması,
 
-# uygulamada not ekleyebilir, düzenleyebilir veya notun üzerini çizebilirsiniz
+ uygulamada not ekleyebilir, düzenleyebilir veya notun üzerini çizebilirsiniz
 
+.
 
+.
 
+.
 
+.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
