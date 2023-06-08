@@ -1,0 +1,58 @@
+.login-page {
+  background-color: #f3cbf1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .login-container {
+    background-image: url("C:\Users\misaf\OneDrive\Resimler\Ekran Görüntüleri\not defteri.png");
+    background-size: cover;
+    background-position: center;
+    height: 400px;;
+    width: 600px;
+    background-repeat: no-repeat;
+    
+    
+  }
+  
+  .login-container h1 {
+    color: #000;
+    margin-top: 150px;
+    text-align: justify;
+    text-align-last: center;
+    font-family: "Comic Sans MS", cursive;
+    font-size: 50px;
+  
+  }
+  
+  .login-container p {
+    color: #000;
+  }
+  
+  .login-container button {
+    background-color: #f27945;
+    color: #000000;
+    border:  2px solid rgb(140, 29, 110);;
+    padding: 20px 25px;
+    margin-top: 0px;
+    margin-left: 210px;
+    border-radius: 30px;
+    cursor: pointer;
+    text-align: justify;
+    text-align-last: center;
+    font-family: "Comic Sans MS", cursive;
+  }
+  
+  .login-container button:hover {
+    background-color: #96421a;
+  }
+  .button-google {
+    color: rgb(0, 0, 0);
+    background-color:  #f3cbf1;
+    padding: 1px;
+    border-radius: 50px;
+  
+  }
+  
